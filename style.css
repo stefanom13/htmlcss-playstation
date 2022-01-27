@@ -22,5 +22,14 @@ ul {
   width: 80px;
 }
 .b_s {
-  border-radius: 56px;
+  border-radius: 996px;
+
+  font-size: 13px;
+}
+
+.lens {
+  line-height: 35px;
+}
+.lens img {
+  width: 25px;
 }
