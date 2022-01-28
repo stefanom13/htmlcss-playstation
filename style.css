@@ -14,22 +14,12 @@ ul {
 }
 
 /* header  */
-.logo {
-  height: 30px;
+
+/* sony-banner  */
+
+.sony-banner img {
+  height: 15px;
+  display: block; /* per togliere quel piccolo padding di default */
 }
 
-.logo img {
-  width: 80px;
-}
-.b_s {
-  border-radius: 996px;
-
-  font-size: 13px;
-}
-
-.lens {
-  line-height: 35px;
-}
-.lens img {
-  width: 25px;
-}
+/* main  */
