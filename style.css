@@ -15,6 +15,8 @@ img {
 
 ul {
   list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 /* header  */
@@ -40,12 +42,32 @@ ul {
   background-position: center;
 }
 .game-banner .row {
-  min-height: 590px;
+  min-height: 600px;
 }
 .game-banner .banner__logo {
   max-width: 216px;
 }
 .game-banner .banner__title {
   font-weight: 400;
-  font-size: 2rem;
+  font-size: 2.3rem;
+}
+
+/* jumbo-it-takes-two  */
+
+#jumbo-it-takes-two {
+  background-image: url("img/it-takes-two-hero-banner-desktop.jpg");
+}
+
+/* section-game  */
+.section-game .game-thumb {
+  border-radius: 15px;
+  overflow: hidden;
+  border: 3px solid transparent;
+  transition: all 0.1s ease-in-out;
+}
+.game-thumb.active,
+.game-thumb:hover {
+  border: 3px solid rgb(44, 44, 239);
+  outline: 4px solid white;
+  outline-offset: -8px;
 }
