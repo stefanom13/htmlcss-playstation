@@ -71,3 +71,15 @@ ul {
   outline: 4px solid white;
   outline-offset: -8px;
 }
+
+/* section playstation-5  */
+.subtitle {
+  color: blue;
+  font-weight: 500;
+  font-size: 12px;
+}
+.t-title {
+  color: gray;
+  font-weight: 500;
+  font-size: 20px;
+}
