@@ -136,3 +136,34 @@ ul {
 .marg_l {
   margin-left: 0;
 }
+
+/* jumbo ps plus  */
+#ps-plus {
+  background-color: rgb(160, 160, 160);
+}
+
+.logo_ps-plus {
+  max-width: 480px;
+}
+.f_p {
+  max-width: 600px;
+  font-weight: 600;
+}
+.c_b {
+  color: rgb(63, 97, 232);
+}
+
+/* section sales  */
+
+.font-sale {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+/* jumbo ps plus  */
+#ps-second-plus {
+  background-color: rgb(14, 14, 111);
+}
+.logo_ps-second-plus {
+  max-width: 350px;
+}
