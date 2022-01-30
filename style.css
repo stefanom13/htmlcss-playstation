@@ -94,3 +94,31 @@ ul {
 .h_img img {
   max-width: 120px;
 }
+.h_img {
+  border: 3px solid transparent;
+  transition: all 0.3s ease-in-out;
+}
+
+.h_img:hover {
+  border: 3px solid rgb(0, 0, 0);
+}
+
+/* <!-- inserimento new game   --> */
+#sect-new-game {
+  background-color: #353232;
+}
+
+#sect-new-game .comm_new_game {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.b_r img {
+  border-radius: 15px;
+}
+
+.title_game {
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+}
