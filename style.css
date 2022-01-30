@@ -122,3 +122,17 @@ ul {
   font-weight: 600;
   color: white;
 }
+
+/* section play-4  */
+
+.comm__play4 {
+  color: grey;
+  font-weight: 600;
+  display: block;
+  padding: 10px 0px;
+  max-width: 90%;
+}
+
+.marg_l {
+  margin-left: 0;
+}
