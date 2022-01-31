@@ -131,6 +131,7 @@ ul {
   display: block;
   padding: 10px 0px;
   max-width: 90%;
+  text-align: start;
 }
 
 .marg_l {
@@ -168,3 +169,32 @@ ul {
   max-width: 350px;
 }
 /* <!-- section social media  --> */
+#sect-social {
+  padding-top: 40px;
+  padding-bottom: 90px;
+}
+
+.w_img {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* footer-list  */
+#footer-list {
+  background-color: rgb(18, 18, 140);
+}
+
+.w-logo {
+  width: 90px;
+}
+
+.language {
+  width: 20px;
+}
+
+.sie_w img {
+  width: 120px;
+}
+.f_style {
+  font-weight: 600;
+}
